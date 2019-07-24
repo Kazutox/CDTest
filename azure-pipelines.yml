@@ -22,5 +22,6 @@ steps:
     npm run build
     cd ../../
     cd core
+    npm install
     ng build --prod
   displayName: 'Build plugins and core'
