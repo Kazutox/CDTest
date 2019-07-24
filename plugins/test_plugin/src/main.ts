@@ -1,0 +1,1 @@
+export { TestPluginModule } from './app/testplugin.module';

@@ -1,0 +1,95 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/core/dist
+/core/tmp
+/core/out-tsc
+# Only exists if Bazel was run
+/core/bazel-out
+
+# dependencies
+/core/node_modules
+
+# profiling files
+/core/chrome-profiler-events.json
+/core/speed-measure-plugin.json
+
+# IDEs and editors
+/core/.idea
+/core/.project
+/core/.classpath
+/core/.c9/
+/core/*.launch
+/core/.settings/
+/core/*.sublime-workspace
+
+# IDE - VSCode
+/core/.vscode/*
+/core/!.vscode/settings.json
+/core/!.vscode/tasks.json
+/core/!.vscode/launch.json
+/core/!.vscode/extensions.json
+/core/.history/*
+
+# misc
+/core/.sass-cache
+/core/connect.lock
+/core/coverage
+/core/libpeerconnection.log
+/core/npm-debug.log
+/core/yarn-error.log
+/core/testem.log
+/core//typings
+
+# System Files
+/core/.DS_Store
+/core/Thumbs.db
+
+
+
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/plugins/test_plugin/dist
+/plugins/test_plugin/tmp
+/plugins/test_plugin/out-tsc
+# Only exists if Bazel was run
+/plugins/test_plugin/bazel-out
+
+# dependencies
+/plugins/test_plugin/node_modules
+
+# profiling files
+/plugins/test_plugin/chrome-profiler-events.json
+/plugins/test_plugin/speed-measure-plugin.json
+
+# IDEs and editors
+/plugins/test_plugin/.idea
+/plugins/test_plugin/.project
+/plugins/test_plugin/.classpath
+/plugins/test_plugin/.c9/
+/plugins/test_plugin/*.launch
+/plugins/test_plugin/.settings/
+/plugins/test_plugin/*.sublime-workspace
+
+# IDE - VSCode
+/plugins/test_plugin/.vscode/*
+/plugins/test_plugin/!.vscode/settings.json
+/plugins/test_plugin/!.vscode/tasks.json
+/plugins/test_plugin/!.vscode/launch.json
+/plugins/test_plugin/!.vscode/extensions.json
+/plugins/test_plugin/.history/*
+
+# misc
+/plugins/test_plugin/.sass-cache
+/plugins/test_plugin/connect.lock
+/plugins/test_plugin/coverage
+/plugins/test_plugin/libpeerconnection.log
+/plugins/test_plugin/npm-debug.log
+/plugins/test_plugin/yarn-error.log
+/plugins/test_plugin/testem.log
+/plugins/test_plugin//typings
+
+# System Files
+/plugins/test_plugin/.DS_Store
+/plugins/test_plugin/Thumbs.db
