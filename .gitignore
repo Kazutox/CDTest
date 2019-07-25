@@ -93,3 +93,5 @@
 # System Files
 /plugins/test_plugin/.DS_Store
 /plugins/test_plugin/Thumbs.db
+
+/plugins/*/.rpt2_cache/*
