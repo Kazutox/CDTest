@@ -18,6 +18,7 @@ steps:
 - task: CmdLine@2
   inputs:
     script: 'npm i -g @angular/cli'
+  displayName: 'Install Angular CLI'
 
 - task: BatchScript@1
   inputs:
